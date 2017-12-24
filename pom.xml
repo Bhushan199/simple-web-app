@@ -200,3 +200,34 @@
 	</build>
 	<name>simple-web-app</name>
 </project>
+
+<distributionManagement>
+   <releasesRepository>
+      <id>nexus-releases</id>
+      <url>http://localhost:8081/nexus/content/repositories/releases/</url>
+   </snapshotRepository>
+</distributionManagement>
+
+<distributionManagement>
+   <snapshotRepository>
+      <id>nexus-snapshots</id>
+      <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+   </snapshotRepository>
+</distributionManagement>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
