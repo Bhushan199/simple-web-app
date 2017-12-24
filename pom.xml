@@ -205,7 +205,7 @@
    <releasesRepository>
       <id>nexus-releases</id>
       <url>http://localhost:8081/nexus/content/repositories/releases/</url>
-   </snapshotRepository>
+   </releasesRepository>
 </distributionManagement>
 
 <distributionManagement>
