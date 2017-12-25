@@ -199,7 +199,6 @@
 		</plugins>
 	</build>
 	<name>simple-web-app</name>
-</project>
 
 <distributionManagement>
    <releasesRepository>
@@ -207,7 +206,7 @@
       <url>http://localhost:8081/nexus/content/repositories/releases/</url>
    </releasesRepository>
 </distributionManagement>
-
+</project>
 
 
 
