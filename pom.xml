@@ -200,13 +200,7 @@
 	</build>
 	<name>simple-web-app</name>
 
-<distributionManagement>
-   <releasesRepository>
-      <id>Releases</id>
-      <url>http://localhost:8081/nexus/content/repositories/releases/</url>
-   </releasesRepository>
-</distributionManagement>
-</project>
+
 
 
 
